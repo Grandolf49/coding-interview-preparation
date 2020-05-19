@@ -3,7 +3,7 @@ A collection of most expected coding problems in technical interviews. Reference
 
 ## Arrays
 1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-    - Solution: [Main.java]()
+    - Solution: [Main.java](https://github.com/Grandolf49/coding-interview-preparation/blob/master/Arrays/Subarray%20sum%20equals%20K/Main.java)
 ## Strings
 ## Linked List
 ## Stacks and Queues
