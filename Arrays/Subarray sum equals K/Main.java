@@ -26,8 +26,7 @@ public class Main {
     }
 
     /***
-     * Input: Use InputReader "in" for reading. Output: Use System.out.println() to
-     * write output to file
+     * Solution
      */
     private static void solve(int t1) {
         int n, k;
