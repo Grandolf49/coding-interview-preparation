@@ -8,8 +8,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
-1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-   - [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+    - **Problem Statement:** Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number S.
+    - [Subarray sum equals k - LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 ## Strings
 
