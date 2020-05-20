@@ -15,11 +15,11 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
 
-## [Stacks](https://leetcode.com/tag/stack/) and [Queues](https://leetcode.com/tag/queue/)
+## [Stacks](https://leetcode.com/tag/stack/)
+
+## [Queues](https://leetcode.com/tag/queue/)
 
 ## [Trees](https://leetcode.com/tag/tree/)
-
-## [Graphs](https://leetcode.com/tag/graph/)
 
 ## [Heap](https://leetcode.com/tag/heap/)
 
@@ -28,6 +28,8 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 - [ ] [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
     - **Problem Statement:** Merge k sorted linked lists and return it as one sorted list.
+
+## [Graphs](https://leetcode.com/tag/graph/)
     
 ## [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)
 
