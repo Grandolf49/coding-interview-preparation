@@ -11,15 +11,15 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
     - **Problem Statement:** Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
-## Strings
+## [Strings](https://leetcode.com/tag/string/)
 
-## Linked List
+## [Linked List](https://leetcode.com/tag/linked-list/)
 
-## Stacks and Queues
+## [Stacks](https://leetcode.com/tag/stack/) and [Queues](https://leetcode.com/tag/queue/)
 
-## Trees
+## [Trees](https://leetcode.com/tag/tree/)
 
-## Graphs
+## [Graphs](https://leetcode.com/tag/graph/)
 
 ## [Heap](https://leetcode.com/tag/heap/)
 
@@ -29,12 +29,12 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [ ] [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
     - **Problem Statement:** Merge k sorted linked lists and return it as one sorted list.
     
-## Divide and Conquer
+## [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)
 
-## Greedy
+## [Greedy](https://leetcode.com/tag/greedy/)
 
-## Dynamic Programming
+## [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 
-## Backtracking
+## [Backtracking](https://leetcode.com/tag/backtracking/)
 
-## Misc
+## [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
