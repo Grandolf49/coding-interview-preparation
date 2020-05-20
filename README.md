@@ -24,6 +24,10 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Heap](https://leetcode.com/tag/heap/)
 
+- [ ] [Kth Largest Element in an Array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
+    - **Problem Statement:** Given an array A and an integer K < len(A), find the Kth largest element in the array.
+    - [Kth Largest Element in an Array - LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+    
 ## Divide and Conquer
 
 ## Greedy
