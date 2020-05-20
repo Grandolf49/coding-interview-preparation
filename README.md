@@ -8,9 +8,8 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
-- [x] [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-    - **Problem Statement:** Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number S.
-    - [Subarray sum equals k - LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
+    - **Problem Statement:** Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
 ## Strings
 
@@ -24,9 +23,11 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Heap](https://leetcode.com/tag/heap/)
 
-- [ ] [Kth Largest Element in an Array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
-    - **Problem Statement:** Given an array A and an integer K < len(A), find the Kth largest element in the array.
-    - [Kth Largest Element in an Array - LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+    - **Problem Statement:** Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
+
+- [ ] [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+    - **Problem Statement:** Merge k sorted linked lists and return it as one sorted list.
     
 ## Divide and Conquer
 
