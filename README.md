@@ -23,7 +23,7 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Heap](https://leetcode.com/tag/heap/)
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     - **Problem Statement:** Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
 - [ ] [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
