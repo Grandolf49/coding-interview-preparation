@@ -9,7 +9,7 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
-- [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)  
   - **Problem Statement:** Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -24,6 +24,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 ## [Queues](https://leetcode.com/tag/queue/)
 
 ## [Trees](https://leetcode.com/tag/tree/)
+
+- [x] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+  - **Problem Statement:** Given a binary tree, determine if it is a valid binary search tree (BST).
 
 ## [Heap](https://leetcode.com/tag/heap/)
 
