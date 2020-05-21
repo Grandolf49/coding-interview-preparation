@@ -12,6 +12,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
   - **Problem Statement:** Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - **Problem Statement:** Search a target value K in an array A sorted in ascending order which is rotated at some pivot unknown to you beforehand. If found in the array return its index, otherwise return -1.
+
 ## [Strings](https://leetcode.com/tag/string/)
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
@@ -25,7 +28,6 @@ A collection of most expected coding problems in technical interviews of **FANG*
 ## [Heap](https://leetcode.com/tag/heap/)
 
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-
   - **Problem Statement:** Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
 - [ ] [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
