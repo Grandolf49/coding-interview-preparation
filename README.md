@@ -15,6 +15,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - **Problem Statement:** Search a target value K in an array A sorted in ascending order which is rotated at some pivot unknown to you beforehand. If found in the array return its index, otherwise return -1.
 
+- [ ] [Set matrix to zero](https://leetcode.com/problems/set-matrix-zeroes/)
+  - **Problem Statement:** Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place.
+
 ## [Strings](https://leetcode.com/tag/string/)
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
@@ -22,7 +25,6 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  
   - **Problem Statement:** A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
   - [GeeksForGeeks Solution](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/)
-
 
 ## [Stacks](https://leetcode.com/tag/stack/)
 
