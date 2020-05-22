@@ -19,6 +19,11 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
 
+- [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  
+  - **Problem Statement:** A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
+  - [GeeksForGeeks Solution](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/)
+
+
 ## [Stacks](https://leetcode.com/tag/stack/)
 
 ## [Queues](https://leetcode.com/tag/queue/)
