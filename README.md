@@ -28,6 +28,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [x] [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
   - **Problem Statement:** Given a binary tree, determine if it is a valid binary search tree (BST).
 
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  - **Problem Statement:** Given preorder and inorder traversal of a tree, construct the binary tree.
+
 ## [Heap](https://leetcode.com/tag/heap/)
 
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
