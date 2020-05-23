@@ -41,6 +41,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   - **Problem Statement:** Given preorder and inorder traversal of a tree, construct the binary tree.
 
+- [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+  - **Problem Statement:** Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree. The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants.
+
 ## [Heap](https://leetcode.com/tag/heap/)
 
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
