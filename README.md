@@ -21,6 +21,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [ ] [Find the maximum element in an array which is first increasing and then decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
   - **Problem Statement:** Given an array of integers which is initially increasing and then decreasing, find the maximum value in the array.
 
+- [ ] [Subarray sum closest to 0](https://www.geeksforgeeks.org/find-sub-array-sum-closest-0/)
+  - **Problem Statement:** Given an array of both positive and negative numbers, the task is to find out the subarray whose sum is closest to 0.
+
 ## [Strings](https://leetcode.com/tag/string/)
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
