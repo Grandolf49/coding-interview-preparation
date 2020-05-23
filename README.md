@@ -17,6 +17,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 
 - [ ] [Set matrix to zero](https://leetcode.com/problems/set-matrix-zeroes/)
   - **Problem Statement:** Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place.
+  
+- [ ] [Find the maximum element in an array which is first increasing and then decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
+  - **Problem Statement:** Given an array of integers which is initially increasing and then decreasing, find the maximum value in the array.
 
 ## [Strings](https://leetcode.com/tag/string/)
 
