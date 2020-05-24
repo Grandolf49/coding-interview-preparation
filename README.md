@@ -9,6 +9,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- [ ] [Print all subsets for a given sum](https://leetcode.com/problems/combination-sum/)
+  - **Problem Statement:** Given an array of integers and a sum, the task is to print all subsets of given array with sum equal to given sum.
+
 - [ ] [Set matrix to zero](https://leetcode.com/problems/set-matrix-zeroes/)
   - **Problem Statement:** Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place.
   
