@@ -32,6 +32,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
   - **Problem Statement:** A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
   - [GeeksForGeeks Solution](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/)
 
+- [ ] [Reveverse nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - **Problem Statement:** Given a linked list, reverse the nodes of a linked list k at a time and return its modified list.
+
 ## [Stacks](https://leetcode.com/tag/stack/)
 
 ## [Queues](https://leetcode.com/tag/queue/)
