@@ -24,6 +24,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [x] [Subarray sum closest to 0](https://www.geeksforgeeks.org/find-sub-array-sum-closest-0/)
   - **Problem Statement:** Given an array of both positive and negative numbers, the task is to find out the subarray whose sum is closest to 0.
 
+- [ ] [Element that occurs once](https://leetcode.com/problems/single-number-ii/)
+  - **Problem Statement:** Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one.
+
 ## [Strings](https://leetcode.com/tag/string/)
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
