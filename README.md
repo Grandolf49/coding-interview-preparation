@@ -47,6 +47,9 @@ A collection of most expected coding problems in technical interviews of **FANG*
 - [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
   - **Problem Statement:** Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree. The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants.
 
+- [x] [Root to leaf path sum](https://leetcode.com/problems/path-sum/)
+  - **Problem Statement:** Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
+
 ## [Heap](https://leetcode.com/tag/heap/)
 
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
