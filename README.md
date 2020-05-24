@@ -41,6 +41,10 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Trees](https://leetcode.com/tag/tree/)
 
+- [ ] [Cousins in a binary tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+  - **Problem Statement:** Given the root of a binary tree with unique values, and the values x and y of two different nodes in the tree. Return true if and only if the nodes corresponding to the values x and y are cousins.
+  - [GeeksForGeeks Solution](https://www.geeksforgeeks.org/print-cousins-of-a-given-node-in-binary-tree/)
+
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   - **Problem Statement:** Given preorder and inorder traversal of a tree, construct the binary tree.
 
