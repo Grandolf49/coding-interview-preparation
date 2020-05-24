@@ -9,6 +9,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- [ ] [Rotate a matrix by 90 degree, no extra space](https://leetcode.com/problems/rotate-image/)
+  - **Problem Statement:** You are given an n x n 2D matrix. Rotate the image by 90 degrees.
+
 - [ ] [Print all subsets for a given sum](https://leetcode.com/problems/combination-sum/)
   - **Problem Statement:** Given an array of integers and a sum, the task is to print all subsets of given array with sum equal to given sum.
 
