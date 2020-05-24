@@ -1,6 +1,6 @@
 # Coding Interview Preparation
 
-A collection of most expected coding problems in technical interviews of **FANG**
+A collection of most expected coding problems in technical interviews of Microsoft, Amazon, Google, Facebook, etc.
 
 # References
 
