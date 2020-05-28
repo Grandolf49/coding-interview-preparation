@@ -9,6 +9,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - **Problem Statement:** Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
+
 - [ ] [Rotate a matrix by 90 degree, no extra space](https://leetcode.com/problems/rotate-image/)
   - **Problem Statement:** You are given an n x n 2D matrix. Rotate the image by 90 degrees.
 
