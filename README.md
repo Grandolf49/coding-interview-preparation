@@ -9,6 +9,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- [ ] [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+  - **Problem Statement:** Given a data stream input of non-negative integers a1, a2, ..., an, ..., summarize the numbers seen so far as a list of disjoint intervals.
+
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
   - **Problem Statement:** Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 
