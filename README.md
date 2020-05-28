@@ -62,6 +62,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Trees](https://leetcode.com/tag/tree/)
 
+- [ ] [Delete Node in BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+  - **Problem Statement:** Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference of the BST.
+
 - [ ] [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/)
   - **Problem Statement:** Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
 
