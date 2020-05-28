@@ -35,6 +35,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Strings](https://leetcode.com/tag/string/)
 
+- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+  - **Problem Statement:** Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+
 ## [Linked List](https://leetcode.com/tag/linked-list/)
 
 - [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  
