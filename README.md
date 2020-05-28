@@ -24,6 +24,9 @@ A collection of most expected coding problems in technical interviews of Microso
 - [ ] [Find the maximum element in an array which is first increasing and then decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
   - **Problem Statement:** Given an array of integers which is initially increasing and then decreasing, find the maximum value in the array.
 
+- [ ] [Find the duplicate element](https://leetcode.com/problems/find-the-duplicate-number/)
+  - **Problem Statement:** Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
+
 - [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)  
   - **Problem Statement:** Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
