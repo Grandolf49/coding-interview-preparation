@@ -59,6 +59,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Trees](https://leetcode.com/tag/tree/)
 
+- [ ] [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/)
+  - **Problem Statement:** Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
+
 - [ ] [Cousins in a binary tree](https://leetcode.com/problems/cousins-in-binary-tree/)
   - **Problem Statement:** Given the root of a binary tree with unique values, and the values x and y of two different nodes in the tree. Return true if and only if the nodes corresponding to the values x and y are cousins.
   - [GeeksForGeeks Solution](https://www.geeksforgeeks.org/print-cousins-of-a-given-node-in-binary-tree/)
