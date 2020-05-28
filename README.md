@@ -27,6 +27,9 @@ A collection of most expected coding problems in technical interviews of Microso
 - [ ] [Find the duplicate element](https://leetcode.com/problems/find-the-duplicate-number/)
   - **Problem Statement:** Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
 
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+  - **Problem Statement:** Given an unsorted array of integers, find the length of longest increasing subsequence.
+
 - [x] [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)  
   - **Problem Statement:** Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
