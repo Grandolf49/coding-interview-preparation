@@ -44,6 +44,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Strings](https://leetcode.com/tag/string/)
 
+- [ ] [Longest substring with distinct characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - **Problem Statement:** Given a string, find the length of the longest substring without repeating characters.
+
 - [ ] [Word Break](https://leetcode.com/problems/word-break/)
   - **Problem Statement:** Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
 
