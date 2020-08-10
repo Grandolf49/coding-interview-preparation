@@ -1,28 +1,28 @@
 # Coding Interview Preparation
 
-A collection of most expected coding problems in technical interviews of Microsoft, Amazon, Google, Facebook, etc.
+A collection of most expected coding problems in technical interviews of Microsoft, Amazon, Google, Facebook, etc. This repository contains relevant links from [GeeksForGeeks](https://www.geeksforgeeks.org/) and [LeetCode](https://leetcode.com/).
 
-# References
+## References
 
-### [Must do coding questions by GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+1. [Must do coding questions by GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+   
+2. [LeetCode](https://leetcode.com/problemset/all/)
 
-### [LeetCode](https://leetcode.com/problemset/all/)
+## Table of Contents
 
-# Table of Contents
-
-1. Arrays
-2. Strings
-3. Linked List
-4. Stacks
-5. Queues
-6. Trees
-7. Heap
-8. Graphs
-9.  Divide And Conquer
-10. Greedy
-11. Dynamic Programming
-12. Backtracking
-13. Bit Manipulation
+1. [Arrays](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+2. [Strings](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+3. [Linked List](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+4. [Stacks](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+5. [Queues](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+6. [Trees](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+7. [Heap](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+8. [Graphs](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+9.  [Divide And Conquer](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+10. [Greedy](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+11. [Dynamic Programming](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+12. [Backtracking](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+13. [Bit Manipulation](https://github.com/Grandolf49/coding-interview-preparation#arrays)
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
