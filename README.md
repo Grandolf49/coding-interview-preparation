@@ -114,6 +114,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Graphs](https://leetcode.com/tag/graph/)
 
+- [Snake and Ladder Problem](https://www.geeksforgeeks.org/snake-ladder-problem-2/)
+  - **Problem Statement:** Given a snake and ladder board, find the minimum number of dice throws required to reach the destination cell from 1st cell.
+
 ## [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)
 
 ## [Greedy](https://leetcode.com/tag/greedy/)
