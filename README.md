@@ -26,6 +26,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- [Minimum Number of Platforms Required for a Railway Station](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+  - **Problem Statement:** Given arrival and departure times of all trains that reach a Railway Station, find the minimum number of platforms required for the railway station so that no train waits.
+
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
   - **Problem Statement:** Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 
