@@ -120,6 +120,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 
+- [Number of Paths with at most K turns](https://www.geeksforgeeks.org/count-number-of-paths-with-k-turns/)
+  - **Problem Statement:** Given a M x N matrix, count number of paths to reach bottom right from top left with maximum k turns allowed. Only down and right moves are allowed.
+
 ## [Backtracking](https://leetcode.com/tag/backtracking/)
 
 ## [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
