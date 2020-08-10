@@ -132,3 +132,6 @@ A collection of most expected coding problems in technical interviews of Microso
 
 - [Element that occurs once](https://leetcode.com/problems/single-number-ii/)
   - **Problem Statement:** Given a non-empty array of integers, every element appears three times except for one, which appears exactly once. Find that single one.
+  
+- [Count ways to assign unique cap to every person](https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/)
+  - **Problem Statement:** There are N different types of caps each having a unique id from 1 to N. There are N persons each having a collection of a variable number of caps. Count the total number of ways such that none of them is wearing the same type of cap.
