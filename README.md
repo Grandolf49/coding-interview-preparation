@@ -26,6 +26,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+  - **Problem Statement:** Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
   - **Problem Statement:** Given a data stream input of non-negative integers a1, a2, ..., an, ..., summarize the numbers seen so far as a list of disjoint intervals.
 
