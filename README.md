@@ -67,6 +67,9 @@ A collection of most expected coding problems in technical interviews of Microso
 
 ## [Strings](https://leetcode.com/tag/string/)
 
+- [KMP Pattern Matching Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+  - **Problem Statement:** Given a string S and pattern P, determine if P is a substring of S
+
 - [Longest substring with distinct characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - **Problem Statement:** Given a string, find the length of the longest substring without repeating characters.
 
