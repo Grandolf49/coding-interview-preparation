@@ -2,11 +2,12 @@
 
 A collection of most expected coding problems in technical interviews of Microsoft, Amazon, Google, Facebook, etc. This repository contains relevant links from [GeeksForGeeks](https://www.geeksforgeeks.org/) and [LeetCode](https://leetcode.com/).
 
+For testing any code in your local system, please provide the input in the **input.txt** file. The output will be generated in **output.txt** file. This is implemented for simple testing.
+
 ## References
 
-1. [Must do coding questions by GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
-   
-2. [LeetCode](https://leetcode.com/problemset/all/)
+- [Must do coding questions by GeeksForGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+- [LeetCode](https://leetcode.com/problemset/all/)
 
 ## Table of Contents
 
@@ -68,7 +69,8 @@ A collection of most expected coding problems in technical interviews of Microso
 ## [Strings](https://leetcode.com/tag/string/)
 
 - [KMP Pattern Matching Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
-  - **Problem Statement:** Given a string S and pattern P, determine if P is a substring of S
+  - **Problem Statement:** Given a string S and pattern P, determine if P is a substring of S.
+  - **Solution: ** [KMP Algorithm C++](https://github.com/Grandolf49/coding-interview-preparation/blob/master/KMP%20Algorithm/kmp_algorithm.cpp)
 
 - [Longest substring with distinct characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - **Problem Statement:** Given a string, find the length of the longest substring without repeating characters.
