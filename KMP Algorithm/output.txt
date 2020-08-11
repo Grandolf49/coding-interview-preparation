@@ -1,0 +1,67 @@
+Pattern:	a b a b d 
+LPS Array:	0 0 1 2 0 
+
+str_start: 0 a  pattern_start: 0 a
+matched
+
+str_start: 1 b  pattern_start: 1 b
+matched
+
+str_start: 2 a  pattern_start: 2 a
+matched
+
+str_start: 3 b  pattern_start: 3 b
+matched
+
+str_start: 4 c  pattern_start: 4 d
+not matched
+go back to previously matched prefix
+
+str_start: 4 c  pattern_start: 2 a
+not matched
+match pattern from start
+
+str_start: 4 c  pattern_start: 0 a
+not matched
+move to next character in main string
+
+str_start: 5 a  pattern_start: 0 a
+matched
+
+str_start: 6 b  pattern_start: 1 b
+matched
+
+str_start: 7 c  pattern_start: 2 a
+not matched
+match pattern from start
+
+str_start: 7 c  pattern_start: 0 a
+not matched
+move to next character in main string
+
+str_start: 8 a  pattern_start: 0 a
+matched
+
+str_start: 9 b  pattern_start: 1 b
+matched
+
+str_start: 10 a  pattern_start: 2 a
+matched
+
+str_start: 11 b  pattern_start: 3 b
+matched
+
+str_start: 12 a  pattern_start: 4 d
+not matched
+go back to previously matched prefix
+
+str_start: 12 a  pattern_start: 2 a
+matched
+
+str_start: 13 b  pattern_start: 3 b
+matched
+
+str_start: 14 d  pattern_start: 4 d
+matched
+pattern found!
+Pattern Present: 1
