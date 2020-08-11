@@ -70,7 +70,7 @@ For testing any code in your local system, please provide the input in the **inp
 
 - [KMP Pattern Matching Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
   - **Problem Statement:** Given a string S and pattern P, determine if P is a substring of S.
-  - **Solution: ** [KMP Algorithm C++](https://github.com/Grandolf49/coding-interview-preparation/blob/master/KMP%20Algorithm/kmp_algorithm.cpp)
+  - **Solution:** [KMP Algorithm in C++](https://github.com/Grandolf49/coding-interview-preparation/blob/master/KMP%20Algorithm/kmp_algorithm.cpp)
 
 - [Longest substring with distinct characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - **Problem Statement:** Given a string, find the length of the longest substring without repeating characters.
