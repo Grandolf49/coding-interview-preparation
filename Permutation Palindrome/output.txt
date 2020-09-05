@@ -1,0 +1,10 @@
+idx: 19
+idx: 0
+idx: 2
+idx: 19
+idx: 2
+idx: 0
+idx: 14
+Bit Vector of "tact 1313cao" 16384
+Set bits = 1
+"tact 1313cao" is a permutation of a palindrome

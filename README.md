@@ -78,6 +78,11 @@ For testing any code in your local system, please provide the input in the **inp
 - [Word Break](https://leetcode.com/problems/word-break/)
   - **Problem Statement:** Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
 
+- [Palindrome Permutation](https://www.geeksforgeeks.org/check-characters-given-string-can-rearranged-form-palindrome/)
+  - **Problem Statement:** Given a non-empty string s, determine if it is a permutation of some palindrome p.
+  - **Solution:** [Permutation Palindrome](https://github.com/Grandolf49/coding-interview-preparation/blob/master/Permutation%20Palindrome/permutation_palindrome.cpp)
+
+
 ## [Linked List](https://leetcode.com/tag/linked-list/)
 
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  
