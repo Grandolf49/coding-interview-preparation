@@ -27,6 +27,9 @@ For testing any code in your local system, please provide the input in the **inp
 
 ## [Arrays](https://leetcode.com/tag/array/)
 
+- **Maximum sum obtained in k operations by choosing start or end element**
+  - **Problem Statement:** You are given an array and the only operations are to pick the elements from beginning or from the end. Obtain the maximum possible using exactly the k-operations.
+
 - [Minimum Number of Platforms Required for a Railway Station](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
   - **Problem Statement:** Given arrival and departure times of all trains that reach a Railway Station, find the minimum number of platforms required for the railway station so that no train waits.
 
