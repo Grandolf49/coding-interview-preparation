@@ -82,6 +82,9 @@ For testing any code in your local system, please provide the input in the **inp
   - **Problem Statement:** Given a non-empty string s, determine if it is a permutation of some palindrome p.
   - **Solution:** [Permutation Palindrome](https://github.com/Grandolf49/coding-interview-preparation/blob/master/Permutation%20Palindrome/permutation_palindrome.cpp)
 
+- **Sort array of strings by frequency**
+  - **Problem Statement:** Given an array of strings, sort the array by the frequency of occurence of strings.
+  - **Solution:** [Sort Strings by Frequency](https://github.com/Grandolf49/coding-interview-preparation/blob/master/Sort%20Strings%20by%20Frequency/sort_string_frequency.cpp)
 
 ## [Linked List](https://leetcode.com/tag/linked-list/)
 
