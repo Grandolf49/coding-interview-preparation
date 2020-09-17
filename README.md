@@ -12,7 +12,7 @@ For testing any code in your local system, please provide the input in the **inp
 ## Table of Contents
 
 1. [Arrays](https://github.com/Grandolf49/coding-interview-preparation#arrays)
-2. [Strings](https://github.com/Grandolf49/coding-interview-preparation#arrays)
+2. [Strings](https://github.com/Grandolf49/coding-interview-preparation#strings)
 3. [Linked List](https://github.com/Grandolf49/coding-interview-preparation#arrays)
 4. [Stacks](https://github.com/Grandolf49/coding-interview-preparation#arrays)
 5. [Queues](https://github.com/Grandolf49/coding-interview-preparation#arrays)
